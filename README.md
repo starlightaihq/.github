@@ -20,7 +20,7 @@ An AI assistant for students and junior developers
 who want to actually understand what they are building.
 Not just answers — real understanding.
 
-> Currently in development. Waitlist open soon.
+> Currently in development.
 
 ---
 
