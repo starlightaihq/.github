@@ -1,4 +1,4 @@
-# Starlight
+# Starlight.
 
 Building focused AI tools for developers and students.
 
